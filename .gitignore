@@ -32,3 +32,7 @@ pipeline_main.py
 ner_main.py
 pregenerating_and_training.*
 run.sh
+bert_main.py
+elmo_main.py
+pregenerate_training_data.py
+dataset/data_report
